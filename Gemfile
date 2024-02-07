@@ -79,3 +79,5 @@ gem "cancancan", "~> 3.5"
 
 gem 'rails_admin', '~> 3.0'
 gem "cssbundling-rails"
+
+gem "jwt", "~> 2.7"
