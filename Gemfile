@@ -76,3 +76,6 @@ gem "dotenv-rails", "~> 2.8"
 gem "devise", "~> 4.9"
 
 gem "cancancan", "~> 3.5"
+
+gem 'rails_admin', '~> 3.0'
+gem "cssbundling-rails"
